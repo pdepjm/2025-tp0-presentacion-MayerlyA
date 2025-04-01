@@ -32,6 +32,8 @@ La mayoría de videos que veo son de:
 
 Obvio, también escucho mucha música, sobre todo en el viajesito lindo hacia Campus.
 
-Eso es todo
+Eso es todo.
 
-Una foto personal mía:
+### Una foto personal mía:
+
+<img src="5143376195302305402.jpg" width="150"> 
